@@ -40,6 +40,6 @@ BMP2ASM uses *settings.ini* for configuration. Some things it can do include:
 
 Each of the options creates a constant to set certain values for metadata. To change any of these options simply replace the true with false and vice versa after the "=".
 
-Bitmap to 68K Assembly Converter
-Written by Kreglar (Miles Cooper 2025)
+Bitmap to 68K Assembly Converter\
+Written by Kreglar (Miles Cooper 2025)\
 Version 4/11/25
