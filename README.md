@@ -20,7 +20,7 @@ Afterword you will be on this screen. The "name" refers to what the label identi
 
 Now you can choose where to save your file and what it will be named. If you type **1** and press **enter**, you can use the automatically generated file location based on the source address and name. Or, you can also type **your own specific path** and press **enter**.
 > [!WARNING]
-> Note: If any other file already exists in the directory you are saving it to with the same name ***IT WILL BE PERMANENTLY ERASED***.
+> Note: If any other file already exists in the directory you are saving it to with the same name ***IT WILL BE PERMANENTLY ERASED***.\
 > Also, when manually selecting an address, make sure it includes *.asm* at the end of the file name.
 
 You have now exported a palette from a bitmap image and converted it into assembly code!
